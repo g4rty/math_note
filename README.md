@@ -11,3 +11,6 @@ since I want to transition from computer engineer to master degree applied mathe
 
 I learn stuff while doing Bachelor degree in computer engineer, so the progress might be slow due to my work but it's my passion too, so I think I will update occasionally.
 
+## About problem in the book
+I try to solve at least half of the problem in each section, due to my time and limited mental capacity.
+
