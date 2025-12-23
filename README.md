@@ -18,7 +18,10 @@ I’m learning while completing a bachelor’s degree in computer engineering, s
 
 I try to solve at least half of the problems in each section, given limited time and mental capacity.
 
-If I have wrote out the proof in my note its mean I add the detail based on my understand, or rewrite it in my languages, but if not I will refer to page, theorem number, or section in the book that I used for each subject (I have one main book for each subject if there is supplements I still stick with main book but it's for proof or alternative point of view)
+If I write out a proof in my notes, it means I’ve added details based on my understanding, or rewritten it in my own words. If I don’t, I’ll reference the page number, theorem number, or section in the book I’m using.
+
+For each subject, I use one main book. If I use supplementary books, I still stick to the main book; supplements are mainly for additional proofs or alternative viewpoints.
+
 
 
 
