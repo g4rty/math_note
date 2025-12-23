@@ -9,4 +9,5 @@ Also plan to start Complex analysis with Application by Grafakos and Asmar and s
 Right now my focus is on getting into probability theory and stochastic process,
 since I want to transition from computer engineer to master degree applied mathematics, and my interested is probability and stochastic process but functional analysis is also catch my interested too.
 
-I learn stuff while doing becherlor degree in computer engineer, so the progress might be slow due to my work but it's my passion too, so I think I will update occasionally.
+I learn stuff while doing Bachelor degree in computer engineer, so the progress might be slow due to my work but it's my passion too, so I think I will update occasionally.
+
